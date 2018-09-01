@@ -1,0 +1,254 @@
+body{
+	padding:0;
+	/*background-color: #DFDCE3;*/
+padding-bottom:120px;  /* Height of the footer */
+    min-height: 100%;
+
+}
+
+.clear{
+	clear: both;
+}
+
+#container{
+	width: 100%;
+	margin:0;
+	padding:0;
+	/*background-color: #DFDCE3;*/
+
+}
+
+#header{
+	width: 100%;
+	height:80px;
+	margin:0;
+	padding:0;
+	/*background-color: #4ABDAC;*/
+	color:white;
+}
+
+#logo{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#homeContent, #content{
+	width: 960px;
+	margin:0 auto;
+	background-color: white;
+}
+
+#leftsidebar {
+  width: 15%;
+  float: left;
+}
+
+#dashboardContainer{
+   width: 90%;
+	margin:0 auto;
+	background-color: white;
+}
+
+#dashTitle {
+  height: 40px;
+  padding: 10px 30px;
+  margin-bottom: 20px;
+  width: 200px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.dashMystudWelcome{
+	height: 80px;
+	text-align: center;
+	vertical-align: center;
+	font-size: 0.9em;
+}
+
+.dashMystudWelcomeCR{
+	height: 150px;
+	text-align: center;
+	vertical-align: center;
+	font-size: 1em;
+}
+
+.dashMystud{
+  background-color: #eee;
+
+}
+
+.dashSideLink{
+	text-decoration: none;
+	line-height: 1.6em;
+}
+
+#dashContent{
+	width: 82%;
+	padding: 10px 5px;
+	float:right;
+	font-size: 0.85em;
+}
+.mentorInfo{
+	font-size: 1.3em;
+	min-height: 100%;
+}
+#selected{
+	background-color: grey;
+	color: white;
+}
+
+#aboutContent{
+	width: 600px;
+	padding: 20px 10px;
+	float:left;
+	height: 500px;
+}
+
+#loginForm, #signupBtn{
+	width: 300px;
+	padding: 20px 10px;
+	float:right;
+}
+
+#facSignUpForm{
+	width:40%;
+}
+
+
+#flTitle{
+	text-align: center;
+}
+
+#loginbtn{
+	width: 100%;
+}
+
+#footer{
+	margin-top: 15px;
+	padding: 5px 20px;
+    position: absolute;
+   width:100%;
+   height:120px;   /* Height of the footer */
+	background-color: #4ABDAC;
+  bottom: -80px;
+}
+
+#footerDash{
+	margin-top: 16px;
+	padding: 5px 20px;
+   width:100%;
+   height:120px;   /* Height of the footer */
+	background-color: #4ABDAC;
+	 position: absolute;
+}
+
+.my_popup_open {
+	display: block;
+    width: 32px;
+    height: 32px;
+    background: url(emailcircle_opt_small.png);
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.my_popup_open {
+	display: block;
+    width: 32px;
+    height: 32px;
+    background: url(emailcircle_opt_small.png);
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.setting_popup {
+	display: block;
+    width: 32px;
+    height: 32px;
+    background: url(settings.png)!important;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.manageEditDiv{
+	display: block;
+    width: 100px;
+    height: 30px;
+    background-color: #eee;
+    padding: 5px 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#manage_delete{
+	background-color: #FC4A1A;
+	width: 100px;
+	height: 30px;
+	padding: 5px 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.manage_popup{
+	display: block;
+    width: 100%;
+    height: 100%;
+    background: none!important;
+    margin:5px;
+    padding:10px;
+    border:0;
+}
+
+#my_popup{
+	width:600px;
+	height:480px;
+	background: white;
+}
+
+#insidePopup, #pag_flash{
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+#sendMail{
+	width: 400px;
+}
+
+#contactCr input{
+  width: 200px;
+}
+
+.msgBox {
+	width: 100%;
+	height:100px;
+}
+.msgTop{
+	margin-right:20px;
+	font-size: 14px;
+	color:grey;
+}
+.msgBody{
+   font-size: 16px;
+   line-height: 1.2;
+}
+
+#fetchStud, #settingSave, #trackFetch{
+	background-color: #F7B733;
+}
+
+#manageFields {
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+#manageFields #manageEnroll {
+	width: 20%;
+	display: inline;
+}
+
+#manageFields #manageEnroll {
+	width: 20%;
+	display: inline;
+}
+
+
